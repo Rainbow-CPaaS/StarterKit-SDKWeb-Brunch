@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // do your setup here
-  console.log("[DEMO] :: Rainbow Application started!");
+    // do your setup here
+    console.log("[DEMO] :: Starter-Kit of the Rainbow SDK for Web with Jquery started!");
   
     var applicationID = "", 
         applicationSecret = "";
@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     var onReady = function onReady() {
         console.log("[DEMO] :: On SDK Ready !");
         // do something when the SDK is ready
+        $("#version").text(rainbowSDK.version());
     };
 
     /* Callback for handling the event 'RAINBOW_ONCONNECTIONSTATECHANGED' */

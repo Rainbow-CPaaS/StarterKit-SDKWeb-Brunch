@@ -1,6 +1,6 @@
 # Brunch Started kit for the Alcatel-Lucent Enterprise Rainbow SDK for Web
 
-This is a modern JS skeleton based on [Brunch](http://brunch.io).
+This is a modern JS skeleton based on Jquery and [Brunch](http://brunch.io).
 
 ## Installation
 
