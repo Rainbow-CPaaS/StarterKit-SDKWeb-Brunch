@@ -3,7 +3,7 @@
   "description": "JQuery Started-Kit for the Alcatel-Lucent Enterprise Rainbow SDK for Web",
   "private": true,
   "author": "Alcatel-Lucent Enterprise",
-  "version": "1.29.1",
+  "version": "1.40.0",
   "repository": "",
   "scripts": {
     "start": "brunch watch --server",
@@ -13,7 +13,7 @@
     "angular": "^1.5.7",
     "jquery": "^3.2.1",
     "moment": "^2.18.1",
-    "rainbow-web-sdk": "^1.29.3"
+    "rainbow-web-sdk": "^1.40.0"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",
